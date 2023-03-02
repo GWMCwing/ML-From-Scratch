@@ -20,7 +20,7 @@ Contributions are welcome!
 
 ### Reinforcement Learning
 
-- TBD
+- [NEAT](https://github.com/GWMCwing/NEAT-Lib)
 
 ## Library used
 
